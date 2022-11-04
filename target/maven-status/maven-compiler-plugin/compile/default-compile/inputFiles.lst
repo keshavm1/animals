@@ -1,2 +1,5 @@
-/Users/keshavmundhra/git/animals/src/main/java/com/api/animals/AnimalsApplication.java
-/Users/keshavmundhra/git/animals/src/main/java/com/api/animals/controller/AnimalsController.java
+/Users/keshavmundhra/git/animals_project/src/main/java/com/api/animals/request/AnimalRequest.java
+/Users/keshavmundhra/git/animals_project/src/main/java/com/api/animals/controller/AnimalsController.java
+/Users/keshavmundhra/git/animals_project/src/main/java/com/api/animals/dao/AnimalDao.java
+/Users/keshavmundhra/git/animals_project/src/main/java/com/api/animals/AnimalsApplication.java
+/Users/keshavmundhra/git/animals_project/src/main/java/com/api/animals/service/AnimalService.java
