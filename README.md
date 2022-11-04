@@ -1,0 +1,1 @@
+This is sample Spring Boot project for Animals
